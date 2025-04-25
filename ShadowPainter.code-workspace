@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"Lua.workspace.library": [
+    "/Applications/love.app/Contents/Resources"
+],
+"Lua.diagnostics.disable": ["undefined-global"]
+
+	}
+}
